@@ -1,0 +1,10 @@
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\bin\Debug\SysProgrDomen.exe.config
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\bin\Debug\SysProgrDomen.exe
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\bin\Debug\SysProgrDomen.pdb
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.csprojAssemblyReference.cache
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.Form1.resources
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.Properties.Resources.resources
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.csproj.GenerateResource.cache
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.csproj.CoreCompileInputs.cache
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.exe
+D:\Nadya\WinForms\SysProgrDomen\SysProgrDomen\obj\Debug\SysProgrDomen.pdb
