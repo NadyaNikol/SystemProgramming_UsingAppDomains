@@ -1,2 +1,2 @@
-# SystemProgramming_UsingAppDomains
+# SystemProgramming_UsingAppDomains_Example
 Домены приложения
